@@ -1,0 +1,121 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.navbar-brand {
+  margin: 5px;
+
+}
+.nav text {
+  font-weight: bolder;
+  
+}
+
+.a image  {
+  border-radius: 15px;
+}
+footer {
+  margin: auto;
+}
+
+.feedback-section {
+    padding: 10px;
+}
+  
+  .feedback-card {
+    transition: transform 0.4s ease-in-out;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    height: 100;
+}
+  
+  .feedback-card:hover {
+    transform: scale(1.05);
+  
+}
+  .feedback-card img {
+    width: 30 0px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    transition: transform 0.5s ease;
+}
+  
+  .feedback-card:hover img {
+    transform: scale(1.2);
+}
+  
+  .feedback-text {
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+  
+  .customer-name {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+  
+  .rating {
+    color: #FFD700;
+    font-size: 1.5rem;
+
+}
+
+.price {
+  
+  padding: 2px;
+  font-weight: bold;
+}
+
+#feedback {
+  background-color: burlywood;
+  padding: 30px;
+}
+
+
+footer ion-icon {
+  font-size: 24px;
+  margin: 10px;
+}
+
+.footer-title{
+  background: linear-gradient(to bottom, #fff8f8, #04b98b);
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  font-family: "kameron";
+}
+
+#products {
+  background-color: #deb887;
+}
+
+#gallery {
+    background-attachment: fixed;
+}
+
+.rating2 {
+  font-weight: larger;
+  font-size: large;
+}
+
+.container-card {
+  padding: 10px;
+}
+
+#features h3 {
+  font-weight: larger;
+  text-align: center;
+  background-color: #deb887;
+  margin: auto;
+  border-radius: 15px;
+  
+}
+
+#products-card {
+    background-color: #deb887;
+}
